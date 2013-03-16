@@ -6,5 +6,6 @@ namespace iTextTools
 {
     class SomeNewClass
     {
+        // This is where I added some code
     }
 }
